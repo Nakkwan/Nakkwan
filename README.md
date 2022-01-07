@@ -9,7 +9,7 @@
 ### ✔ Skills
 #### Language
 ![Python Badge](http://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-![C++ Badge](http://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white)
+![C++ Badge](http://img.shields.io/badge/C++%-00599C?style=flat&logo=C++&logoColor=white)
 #### Framework
 
   
