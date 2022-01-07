@@ -1,6 +1,6 @@
 <p>
   <a href="https://nakkwan.github.io/" target="_blank"><img src="https://img.shields.io/badge/Nakkwan Blog-83B81A?style=flat&logo=Bloglovin&logoColor=FFFFFF"/></a>
-  <a href="mailto:cvvc1997@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:cvvc1997@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cvvc1997@gmail.com-F24E1E?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
   
