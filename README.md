@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=83B81A&height=300&section=header&text=Nakkwan Gitbuh%20render&fontSize=80)
+
 <p>
   <a href="https://nakkwan.github.io/" target="_blank"><img src="https://img.shields.io/badge/Nakkwan Blog-83B81A?style=flat&logo=Bloglovin&logoColor=FFFFFF"/></a>
   <a href="mailto:cvvc1997@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cvvc1997@gmail.com-F24E1E?style=flat&logo=Gmail&logoColor=white"/></a>
