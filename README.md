@@ -17,10 +17,8 @@
 ![Python Badge](http://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![C++ Badge](http://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white)
 
-#### ✔ Tech stack
+#### ✔ Tech stack & Framework
 ![Unity Badge](http://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white)
-
-#### ✔ Framework
 ![PyTorch Badge](http://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
   
 ![Nakkwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakkwan&show_icons=true&theme=vue-dark)
