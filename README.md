@@ -7,7 +7,10 @@
 </p>
 
 ### Research Area
-
+- Machine Learning
+  - Generative Model
+  - Objet Detection
+  - Denoising
 
 ### Skills
 #### ✔ Language
