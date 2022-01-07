@@ -4,5 +4,5 @@
   <a href="https://www.instagram.com/nak_panh/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
   
-  ![Nakkwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakkwan&show_icons=true&theme=gruvbox)
+  ![Nakkwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakkwan&show_icons=true&theme=vue-dark)
   
