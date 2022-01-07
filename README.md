@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=83B81A&height=300&section=header&text=Nakkwan Gitbuh%20render&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=83B81A&height=300&section=header&text=Nakkwan%20Gitbuh&fontSize=80)
 
 <p>
   <a href="https://nakkwan.github.io/" target="_blank"><img src="https://img.shields.io/badge/Nakkwan Blog-83B81A?style=flat&logo=Bloglovin&logoColor=FFFFFF"/></a>
