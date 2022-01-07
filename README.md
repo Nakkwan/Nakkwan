@@ -6,12 +6,19 @@
   <a href="https://www.instagram.com/nak_panh/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-### ✔ Skills
-#### Language
-![Python Badge](http://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-![C++ Badge](http://img.shields.io/badge/C++%-00599C?style=flat&logo=C++&logoColor=white)
-#### Framework
+### Research Area
 
+
+### Skills
+#### ✔ Language
+![Python Badge](http://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![C++ Badge](http://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white)
+
+#### ✔ Tech stack
+![Unity Badge](http://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white)
+
+#### ✔ Framework
+![PyTorch Badge](http://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
   
 ![Nakkwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nakkwan&show_icons=true&theme=vue-dark)
   
