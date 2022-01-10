@@ -7,7 +7,7 @@
 </p>
 
 ### Research Area
-- Machine Learning
+✔ Machine Learning
   - Generative Model
   - Objet Detection
   - Denoising
