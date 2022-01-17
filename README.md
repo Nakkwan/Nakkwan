@@ -9,7 +9,7 @@
 ### Career
 - KyungHee Univ, Undergraduate (2016.03 ~ 2021.02)
   - Electronic Engineering
-- UNIST, graduate, master course (2021.03 ~)
+- UNIST, graduate, MS (2021.03 ~)
   - Electronical and Computer Science Engineering
 
 ### Research Area
