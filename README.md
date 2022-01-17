@@ -6,6 +6,12 @@
   <a href="https://www.instagram.com/nak_panh/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
+### Career
+- KyungHee Univ, Undergraduate (2016.03 ~ 2021.02)
+  - Electronic Engineering
+- UNIST, graduate, master course (2021.03 ~)
+  - Electronical and Computer Science Engineering
+
 ### Research Area
 ✔ Machine Learning
   - Generative Model
