@@ -15,7 +15,7 @@
 ### Research Area
 ✔ Machine Learning
   - Generative Model
-  - Objet Detection
+  - Object Detection
   - Denoising
 
 #### ✔ Tech stack & Framework
