@@ -12,6 +12,11 @@
 - UNIST, graduate, MS (2021.03 ~)
   - Electronical and Computer Science Engineering
 
+### Project
+- Development of AI-based CAD conversion technology for traditional architecture drawing images (2021.05 ~ )
+- AI-based manufacturing site safety management guidebook (2021.10 ~ 2021.12)
+
+
 ### Research Area
 ✔ Machine Learning
   - Generative Model
