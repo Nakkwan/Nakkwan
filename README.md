@@ -16,7 +16,7 @@
 ### Publications
 - [CHOI, Nakkwan, et al. Restoration of Hand-Drawn Architectural Drawings Using Latent Space Mapping With Degradation Generator. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023. p. 14164-14172.](https://openaccess.thecvf.com/content/CVPR2023/html/Choi_Restoration_of_Hand-Drawn_Architectural_Drawings_Using_Latent_Space_Mapping_With_CVPR_2023_paper.html)
 - [CHO, Hyunjoong, et al. Online Safety Zone Estimation and Violation Detection for Nonstationary Objects in Workplaces. IEEE Access, 2022, 10: 39769-39781.](https://ieeexplore.ieee.org/abstract/document/9751714)
-- CHOI, Nakkwan, et al. Denoising Traditional Architectural Drawings with Image Generation and Supervised Learning. Journal of architectural history, 2022, 31.1: 41-50.
+- [CHOI, Nakkwan, et al. Denoising Traditional Architectural Drawings with Image Generation and Supervised Learning. Journal of architectural history, 2022, 31.1: 41-50.](https://koreascience.kr/article/JAKO202210242830029.page)
 
 ### Project
 - Development of AI-based CAD conversion technology for traditional architecture drawing images (2021.05 ~ 2023.02)
