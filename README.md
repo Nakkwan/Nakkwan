@@ -20,12 +20,14 @@
 
 ### Project
 - Development of AI-based CAD conversion technology for traditional architecture drawing images (2021.05 ~ 2023.02)
+- AI Novatus Academia, Gaze Tracking SW ((2022.12 ~ 2023.02))
 - AI-based manufacturing site safety management guidebook (2021.10 ~ 2021.12)
 - Safety Zone Estimation and Violation Detection (2021.09 ~ 2021.11)
+- Missile interception simulation (Senier project, Top prize) (2020.08 ~ 2020.11)
 
 ### Research Area
 ✔ Machine Learning
-  - Generative Model
+  - Generative model
   - Image2Image
   - Object Detection
 
