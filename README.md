@@ -19,6 +19,7 @@
 - [CHOI, Nakkwan, et al. Denoising Traditional Architectural Drawings with Image Generation and Supervised Learning. Journal of architectural history, 2022, 31.1: 41-50.](https://koreascience.kr/article/JAKO202210242830029.page)
 
 ### Project
+- Development of application for detecting human safety zone violation on self-elevating crane (2023.10 ~ 2023.11)
 - Development of AI-based CAD conversion technology for traditional architecture drawing images (2021.05 ~ 2023.02)
 - AI Novatus Academia, Gaze Tracking SW ((2022.12 ~ 2023.02))
 - AI-based manufacturing site safety management guidebook (2021.10 ~ 2021.12)
