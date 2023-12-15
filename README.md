@@ -22,14 +22,13 @@
 - Development of Self-Elevating Crane System for Installation and Maintenance of Onshore Wind Turbine System (2023.10 ~ 2023.11)
 - Development of AI-based CAD conversion technology for traditional architecture drawing images (2021.05 ~ 2023.02)
 - AI Novatus Academia, Gaze Tracking SW ((2022.12 ~ 2023.02))
-- AI-based manufacturing site safety management guidebook (2021.10 ~ 2021.12)
+- AI-based manufacturing site safety management guidebook (2021.10 ~ 2022.01)
 - Safety Zone Estimation and Violation Detection (2021.09 ~ 2021.11)
 - Missile interception simulation (Senier project, Top prize) (2020.08 ~ 2020.11)
 
 ### Research Area
 ✔ Machine Learning
-  - Generative model
-  - Image2Image
+  - Generation model (VAE, Diffusion, Nerf (Currently Studing...), etc)
   - Object Detection
 
 #### ✔ Tech stack & Framework
