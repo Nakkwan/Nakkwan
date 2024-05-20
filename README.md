@@ -28,7 +28,7 @@
 
 ### Research Area
 ✔ Machine Learning
-  - Generation model (VAE, Diffusion, Nerf (Currently Studing...), etc)
+  - Generation model (Vision)
   - Object Detection
 
 #### ✔ Tech stack & Framework
